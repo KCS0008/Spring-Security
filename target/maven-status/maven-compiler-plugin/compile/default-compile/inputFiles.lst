@@ -1,0 +1,16 @@
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\config\ApplicationConfig.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\service\EmailService.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\service\AuthenticationService.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\dto\ForgotPasswordRequest.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\service\JwtService.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\dto\RegisterRequest.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\repository\UserRepository.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\AuthServiceApplication.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\config\JwtAuthenticationFilter.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\config\SecurityConfig.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\dto\LoginRequest.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\dto\AuthResponse.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\dto\ResetPasswordRequest.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\entity\User.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\controller\AuthController.java
+C:\Java_workPlace\Login_Register\src\main\java\com\auth\service\CustomUserDetailsService.java
